@@ -1,2 +1,5 @@
 # golden-mouse.github.io
-golden mouse landing page
+
+![goldenmouse logo](./logo.jpg)
+
+goldenmouse landing page
